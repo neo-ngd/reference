@@ -42,9 +42,9 @@ This initiative is to set a protocol to adhere to for future blockchain monitors
 <table>
 <thead>
 <tr>
-   <th>PK</th>
-    <th>Realtime</th>
-    <th>Public key</th>
+   <th>Information</th>
+    <th>Data Type</th>
+    <th>Description</th>
   </tr>
 </thead>
     
