@@ -1,6 +1,6 @@
 # NEO Monitor Standard
 
-> *Read this in other languages: [简体中文](#NEO-监控标准).
+> *Read this in other languages: [简体中文](#neo-监控标准).
 
 Change Log: 
 
@@ -90,9 +90,11 @@ For security reasons, the IP of the consensus node and other important informati
 
 
 
+
+
 # NEO 监控标准 
 
-> *其他语言: [英文](NEO Monitor Standard).*
+> *其他语言: [英文](neo-monitor-standard).*
 
 Change Log: 
 
