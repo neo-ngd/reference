@@ -94,7 +94,7 @@ For security reasons, the IP of the consensus node and other important informati
 
 # NEO 监控标准 
 
-> *其他语言: [英文](neo-monitor-standard).*
+> *其他语言: [英文](#neo-monitor-standard).*
 
 Change Log: 
 
