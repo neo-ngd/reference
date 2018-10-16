@@ -1,4 +1,4 @@
-# reference
+# Reference
 
 ### NEO Monitor Standard
 The purpose of this standard is to standardize the monitoring of NEO blockchains, primarily for mainnet and testnet. 
