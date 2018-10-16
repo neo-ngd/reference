@@ -73,7 +73,7 @@ Below is a timeline of how NEO is to be unlocked.
 
 NEO is committed to building a decentralized network. But it is worth noting that due to the unlocking plan, NEO Foundation will have access to a considerable number of votes in the next few years. As a result, **the governance of NEO's network currently consists of two methods: chain governance and off-chain governance.**
 
-#### Chain Governance
+#### On-Chain Governance
 
 Chain governance relies on the mechanisms of the NEO blockchain itself. It is what NEO hopes to be the main source of governance in the future. 
 
@@ -89,7 +89,7 @@ Aside from maintaining current consensus nodes, developing NEO's core projects a
 
 Due to the two methods of governance, there are two ways of becoming a consensus node: 
 
-**1) Chain-governance Candidates**
+**1) On-Chain governance Candidates**
 
 If you wish to become a consensus node through the votes of NEO holders and maintain it independently, the steps are as follows: 
 
@@ -108,9 +108,8 @@ If you want to establish a strategic partnership with the NEO Foundation (off-ch
 
 ### Incentives
 
-The incentive model for the NEO network is still being discussed. The current plan is to distribute network fees charged in gas among the Consensus Nodes. 
-
-The section will be updated if the incentive mechanism has been finalized. 
+According to NEO's economical model, the maintainer of NEO consensus node will be rewarded with network fees. New economical model is being discussed.  
+This section will be updated if the incentive mechanism changes. 
 
 ## 1. Requirements
 
