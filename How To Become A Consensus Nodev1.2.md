@@ -154,7 +154,7 @@ All potential candidates are advised to provide some, or all of the information 
 
 Off-chain governance candidates can apply by sending organization information and maintenance proposals to: 
 
-foundation@neo.org
+consensus@neo.org
 
 The proposal should contain information listed in [1. Requirements](#1-requirements). 
 
