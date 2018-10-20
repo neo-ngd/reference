@@ -77,7 +77,7 @@ NEO is committed to building a decentralized network. But it is worth noting tha
 
 Chain governance relies on the mechanisms of the NEO blockchain itself. It is what NEO hopes to be the main source of governance in the future. 
 
-NEO token holders are the network owners and managers, managing the network through voting in the network(as 1 NEO corresponds to 1 vote), using the GAS generated from NEO to utilize the functions in the network. NEO tokens can be transferred. 
+NEO token holders are the network owners and managers, managing the network through voting in the network, using the GAS generated from NEO to utilize the functions in the network. NEO tokens can be transferred. 
 
 #### Off-Chain Governance
 
