@@ -11,7 +11,7 @@
   * [2. Partnering With NEO Foundation (Optional)](#2-partnering-with-neo-foundation-optional)
       * [2.1 Sending Application](#2-sending-application)
       * [2.2 Test-Running Consensus Node](#22-test-running-consensus-node)
-  * [3. Main-net Candidate & Voting](#3-main-net-candidate---voting)
+  * [3. Main-net Candidate & Voting](#3-main-net-candidate--voting)
     + [3.1 Registering As Candidate](#31-registering-as-candidate)
     + [3.2 Voting](#32-voting)
 * [4. Gather Votes & Support](#4-gather-votes--support)
