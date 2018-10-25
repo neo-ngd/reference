@@ -2,7 +2,7 @@
 
 ### How to Become a NEO Consensus Node
 
-The purpose of this [document](How To Become A Consensus Nodev1.2.md) is to introduce the background to NEO's consensus node governing models and provide a guide on how to become a consensus node on the NEO network. 
+The purpose of this [document](How%To%Become%A%Consensus%Nodev1.2.md) is to introduce the background to NEO's consensus node governing models and provide a guide on how to become a consensus node on the NEO network. 
 
 ### NEO Monitor Standard
 
