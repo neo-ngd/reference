@@ -108,7 +108,7 @@ If you want to establish a strategic partnership with the NEO Foundation (off-ch
 
 ### Incentives
 
-According to NEO's economical model, the maintainer of NEO consensus node will be rewarded with network fees. New economical model is being discussed.  
+According to NEO's economic model, the maintainer of NEO consensus node will be rewarded with network fees. New economical model is being discussed.  
 This section will be updated if the incentive mechanism changes. 
 
 ## 1. Requirements
