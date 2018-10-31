@@ -1,4 +1,4 @@
-# NEO Monitor Standard
+# NEO Monitor Reference
 
 > *Read this in other languages: [简体中文](#neo-监控标准).
 
@@ -13,8 +13,8 @@ Change Log:
  - Realtime 
      - Modify description for Node-state.  
 
-The purpose of this standard is to standardize the monitoring of NEO blockchains, primarily for `mainnet` and `testnet`. We hope that the blockchain monitors that oversee the NEO platform can be implemented according to the corresponding standards.
-This paper is divided into two parts, the first part is the monitoring of NEO block information standard, and the second part is the monitoring of NEO node information. For those who want to develop programs that monitor NEO information, they can choose the functions they need to develop during the development process.
+The purpose of this reference is to standardize the monitoring of NEO blockchains, primarily for `mainnet` and `testnet`. We hope that the blockchain monitors that oversee the NEO platform can be implemented according to the corresponding references.
+This paper is divided into two parts, the first part is the monitoring of NEO block information, and the second part is the monitoring of NEO node information. For those who want to develop programs that monitor NEO information, they can choose the functions they need to develop during the development process.
 
 ## NEO Blockchain
 
@@ -94,7 +94,7 @@ For security reasons, the IP of the consensus node and other important informati
 
 # NEO 监控标准 
 
-> *其他语言: [英文](#neo-monitor-standard).*
+> *其他语言: [英文](#neo-monitor-reference).*
 
 Change Log: 
 
