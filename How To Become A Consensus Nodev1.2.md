@@ -272,7 +272,7 @@ The **`active`** field in the returning json file indicates the status of the no
 
 ## Appendix 2. Add Candidate Info to Consensus Node Page
 
-The [Consensus Nodes](http://neo.org/consensus) page can be used to track the status and number of votes for each candidate on the main-net. Clicking on the green arrow can expand and show more information for each node. 
+The [Consensus Nodes](http://neo.org/consensus) page can be used to track the status and number of votes for each candidate on the main-net. 
 
 <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/consensusSited1a-EN.png" width="755">
 
