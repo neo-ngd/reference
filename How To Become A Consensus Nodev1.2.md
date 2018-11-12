@@ -274,17 +274,17 @@ The **`active`** field in the returning json file indicates the status of the no
 
 The [Consensus Nodes](http://neo.org/consensus) page can be used to track the status and number of votes for each candidate on the main-net. Clicking on the green arrow can expand and show more information for each node. 
 
-<img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/consensusSited1-EN.png" width="755">
+<img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/consensusSited1a-EN.png" width="755">
 
 **To Add Candidate Info: **
 
-1. Select <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/consensusSited2-EN.png" width="220">, which opens the Candidate Info tab. 
+1. Select <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/consensusSited2a-EN.png" width="200">, which opens the Candidate Info tab. 
 
 2. Select the public key of your consensus node from the drop-down menu. Enter information about the candidate. 
 
 3. Once the information is complete, select `Generate Hash`. Which will generate a hash string. 
 
-   <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/consensusSited3-EN.png" width="620">
+   <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/consensusSited3a-EN.png" width="620">
 
 4. Open NEO GUI, select `Advanced` -> `Sign Message...` (*Available only to 3.0 or above*)
 
@@ -297,6 +297,6 @@ The [Consensus Nodes](http://neo.org/consensus) page can be used to track the st
 
 6. Return to the Candidate Info tab on the browser, paste the signature and select `Submit`. 
 
-   <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/consensusSite6-EN.png" width="620">
+   <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/consensusSite6a-EN.png" width="620">
 
    If the green arrow to the right of your node on the page is green and expandable,  then your candidate info is successfully submitted! 
