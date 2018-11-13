@@ -1,4 +1,4 @@
-# How To Become A Consensus Node
+# How To Become NEO Consensus Node
 *version 1.2 | [中文版](如何成为共识节点v1.2.md)*
 
 #### Table Of Contents
