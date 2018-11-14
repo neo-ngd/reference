@@ -238,10 +238,10 @@ Starting from 30th Nov, 2018, one voting cycle completes every 3 months. This me
 
 Below is a list of voting cycles for 2019: 
 
-​	*30th Nov, 2018 - 28th Feb, 2019*
-​	*28th Feb 2019 - 31st May, 2019*
-​	*31st May, 2019 - 31st Aug, 2019*
-​       *31st Aug, 2019 - 30th Nov, 2019*
+- *30th Nov, 2018 - 28th Feb, 2019*
+- *28th Feb 2019 - 31st May, 2019*
+- *31st May, 2019 - 31st Aug, 2019*
+- *31st Aug, 2019 - 30th Nov, 2019*
 
 ## 4. Gathering Votes & Support
 
