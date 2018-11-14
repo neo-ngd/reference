@@ -1,5 +1,5 @@
 # How To Become NEO Consensus Node
-*version 1.2 | [中文版](如何成为共识节点v1.2.md)*
+*version 1.3a | [中文版](如何成为NEO共识节点v1.2.md)*
 
 #### Table Of Contents
   * [0. Background](#0-background)
@@ -26,10 +26,11 @@
 
 ### Current Consensus Nodes
 
-The NEO main-net currently has 7 consensus nodes. 
+The NEO main-net currently has 7 consensus nodes. (see the consensus node monitoring [page](https://neo.org/consensus))
 
-- NEO Foundation maintains 6 of the nodes
+- NEO Foundation maintains 5 of the nodes
 - CityOfZion maintains 1 node
+- KPN maintains 1 node
 
 The NEO test-net currently has 7 consensus nodes. 
 
@@ -87,7 +88,7 @@ Aside from maintaining current consensus nodes, developing NEO's core projects a
 
 ### Candidate Types
 
-Due to the two methods of governance, there are two ways of becoming a consensus node: 
+As there are currently two methods of governance, there are two ways of becoming a consensus node: 
 
 **1) On-Chain governance Candidates**
 
@@ -115,7 +116,7 @@ This section will be updated if the incentive mechanism changes.
 
 > **Applicable to both chain governance and off-chain governance candidates.**
 
-All potential candidates are advised to provide some, or all of the information listed below. These information can be published on the [Consensus Node Page](#appendix-2-add-candidate-info-to-consensus-node-page) and the organisation's official website. 
+All potential candidates are advised to provide some, or all of the information listed below. These information can be published on the [Consensus Node Page](#appendix-2-add-candidate-info-to-consensus-node-page) and the organization's official website. 
 
 - Applicant/Organization Information
 
@@ -146,9 +147,9 @@ All potential candidates are advised to provide some, or all of the information 
 - 10M Bandwidth
 - 100G Hard Drive
 
-## 2 Partnering With NEO Foundation (Optional)
+## 2. Partnering With NEO Foundation (Optional)
 
-> **Applicable only to off-chain governance candidates. For chain gonvernance candidates, skip to [3. Main-net Cadidate&Voting](#3-main-net-candidate---voting)**
+> **Applicable only to off-chain governance candidates. For chain governance candidates, skip to [3. Main-net Cadidate&Voting](#3-main-net-candidate---voting)**
 
 ### 2.1 Sending Application
 
@@ -231,6 +232,17 @@ Anyone holding NEO can vote using the GUI. Candidates are allowed to vote for th
 
 4. If the message of a transaction ID is displayed, then you have voted successfully. You can check the number of votes for each candidate by accessing the API. (See [Appendix 1](#appendix-1-checking-candidates-and-votes-using-api))
 
+#### 3.2.2 The Voting Cycle
+
+Starting from 30th Nov, 2018, one voting cycle completes every 3 months. This means that at least 1 consensus node will be selected by 28th Feb, 2019. Nodes that have registered as candidate nodes but have not been voted as consensus nodes will automatically enter the candidate pool for the next voting cycle. 
+
+Below is a list of voting cycles for 2019: 
+
+​	*30th Nov, 2018 - 28th Feb, 2019*
+​	*28th Feb 2019 - 31st May, 2019*
+​	*31st May, 2019 - 31st Aug, 2019*
+​       *31st Aug, 2019 - 30th Nov, 2019*
+
 ## 4. Gathering Votes & Support
 
 > **Applicable to both chain governance and off-chain governance candidates.**
@@ -286,7 +298,7 @@ The [Consensus Nodes](http://neo.org/consensus) page can be used to track the st
 
    <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/consensusSited3a-EN.png" width="620">
 
-4. Open NEO GUI, select `Advanced` -> `Sign Message...` (*Available only to 3.0 or above*)
+4. Open NEO GUI, select `Advanced` -> `Sign Message...` (*Available only to v3.0 or above*)
 
    <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/consensusSite4-EN.png" width="725">
 
