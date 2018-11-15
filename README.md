@@ -1,12 +1,16 @@
 # Reference
 
-### How to Become a NEO Consensus Node
+> A browsable version of the documents is available [here]()
 
-The purpose of this [document](How-To-Become-NEO-Consensus-Nodev1.3.md) is to introduce the background to NEO's consensus node governing models and provide a guide on how to become a consensus node on the NEO network. 
+### [How to Become a NEO Consensus Node](How-To-Become-NEO-Consensus-Nodev1.3.md)
 
-### NEO Monitor Standard
+The purpose of this is to introduce the background to NEO's consensus node governing models and provide a guide on how to become a consensus node on the NEO network. 
 
-The purpose of this [standard](NEOMonitorReference_v1.3.md) is to standardize the monitoring of NEO blockchains, primarily for mainnet and testnet. 
+### [NEO Monitor Standard](NEOMonitorReference_v1.3.md)
 
-### NEO Vulnerability Bounty Program
-The purpose of [NEO Vulnerability bounty program](NEO%20Vulnerability%20Bounty%20Program/NEO-Vulnerability-Bounty-Program.md) is to be proactive about blockchain security by providing a channel for security researchers to report potential security vulnerabilities identified related to our underlying infrastructure. Everyone who find the vulnerabilities can send email to erik@neo.org. We will try our best to investigate those eligible vulnerabilities and fix the validity issues. All rewards will be paid in the equivalent amount of NEO.
+The purpose of this standard is to standardize the monitoring of NEO blockchains, primarily for mainnet and testnet. 
+
+### [NEO Vulnerability Bounty Program](NEO%20Vulnerability%20Bounty%20Program/NEO-Vulnerability-Bounty-Program.md)
+
+The purpose of NEO Vulnerability bounty program is to be proactive about blockchain security by providing a channel for security researchers to report potential security vulnerabilities identified related to our underlying infrastructure. Everyone who find the vulnerabilities can send email to erik@neo.org. We will try our best to investigate those eligible vulnerabilities and fix the validity issues. All rewards will be paid in the equivalent amount of NEO.
+
