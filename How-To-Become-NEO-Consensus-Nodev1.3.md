@@ -1,5 +1,5 @@
 ---
-layout: post
+
 ---
 
 # How To Become NEO Consensus Node
