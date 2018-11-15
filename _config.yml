@@ -47,6 +47,7 @@ minima:
 theme: minima
 
 header_pages: 
+  - README.md
 
 plugins:
  - jekyll-feed
