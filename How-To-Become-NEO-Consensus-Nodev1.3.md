@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Becoming Consensus Node
 ---
 
 # How To Become NEO Consensus Node

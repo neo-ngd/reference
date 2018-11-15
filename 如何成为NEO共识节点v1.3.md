@@ -1,6 +1,5 @@
 ---
 layout: post
-title: 成为NEO共识节点
 ---
 
 # 如何成为NEO共识节点
