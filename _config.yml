@@ -46,6 +46,8 @@ minima:
 # Build settings
 theme: minima
 
+header_pages: 
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
