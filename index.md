@@ -1,6 +1,6 @@
-# Reference
-
-> A browsable version of the documents is available [here]()
+---
+title: List of Content
+---
 
 ### [How to Become a NEO Consensus Node](How-To-Become-NEO-Consensus-Nodev1.3.md)
 
