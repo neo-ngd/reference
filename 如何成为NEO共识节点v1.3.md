@@ -1,10 +1,10 @@
 ---
-layout: post
+title: null
 ---
 
 # 如何成为NEO共识节点
 
-*v1.3 | [English ver.](How-To-Become-NEO-Consensus-Nodev1.3.md)*
+> *v1.3 | [English ver.](How-To-Become-NEO-Consensus-Nodev1.3.md)*
 
 ### **目录**
 
