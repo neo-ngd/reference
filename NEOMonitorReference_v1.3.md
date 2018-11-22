@@ -1,10 +1,10 @@
 ---
-
+title: null
 ---
 
 # NEO Monitor Reference
 
-> *Read this in other languages: [简体中文](#neo-监控标准).
+> *Read this in other languages: [简体中文](#neo-监控标准).*
 
 Change Log: 
 
