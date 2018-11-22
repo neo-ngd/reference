@@ -44,7 +44,7 @@ minima:
 # - about.md
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 
 header_pages: 
   - index.md
