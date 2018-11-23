@@ -16,10 +16,10 @@ title: null
   * [2. Partnering With NEO Foundation (Optional)](#2-partnering-with-neo-foundation-optional)
       * [2.1 Sending Application](#2-sending-application)
       * [2.2 Test-Running Consensus Node](#22-test-running-consensus-node)
+      * [2.3 NEO Foundation's Selection Schedule](#23-neo-foundations-selection-schedule)
   * [3. Main-net Candidate & Voting](#3-main-net-candidate--voting)
     + [3.1 Registering As Candidate](#31-registering-as-candidate)
     + [3.2 Voting](#32-voting)
-    + [3.3 The Voting Cycle](#33-the-voting-cycle)
 * [4. Gather Votes & Support](#4-gather-votes--support)
 * [Appendix 1. Checking Candidates and Votes using API](#appendix-1-checking-candidates-and-votes-using-api)
 * [Appendix 2. Add Candidate Info to Consensus Node Page](#appendix-2-add-candidate-info-to-consensus-node-page)
@@ -197,6 +197,17 @@ If problem arises with the consensus node during this period, active communicati
 
 After 6 months of running the test-net, the applicant will be qualified to become a candidate for a consensus node on the main-net. 
 
+### 2.3 NEO Foundation's Selection Schedule 
+
+Starting from 30th Nov, 2018, NEO Foundation plans to select at least 1 consensus node from the applicant pool every 3 months. This means by 28th Feb, 2019, one or more consensus nodes will be chosen and will be running on the test-net. Candidates who have applied but have not been chosen as consensus nodes will automatically enter the candidate pool for the next 3-month cycle. 
+
+Below is the selection schedule in 2019: 
+
+- *30th Nov, 2018 - 28th Feb, 2019*
+- *28th Feb 2019 - 31st May, 2019*
+- *31st May, 2019 - 31st Aug, 2019*
+- *31st Aug, 2019 - 30th Nov, 2019*
+
 
 ## 3. Main-net Candidate & Voting
 
@@ -237,17 +248,6 @@ Anyone holding NEO can vote using the GUI. Candidates are allowed to vote for th
    *Example: giving three candidates each 100000000 votes.*
 
 4. If the message of a transaction ID is displayed, then you have voted successfully. You can check the number of votes for each candidate by accessing the API. (See [Appendix 1](#appendix-1-checking-candidates-and-votes-using-api))
-
-### 3.3 The Voting Cycle
-
-Starting from 30th Nov, 2018, one voting cycle completes every 3 months. This means that at least 1 consensus node will be selected by the end of the 3 months, which is 28th Feb, 2019. Nodes that have registered as candidate nodes but have not been voted as consensus nodes will automatically enter the candidate pool for the next voting cycle. 
-
-Below is a list of voting cycles for 2019: 
-
-- *30th Nov, 2018 - 28th Feb, 2019*
-- *28th Feb 2019 - 31st May, 2019*
-- *31st May, 2019 - 31st Aug, 2019*
-- *31st Aug, 2019 - 30th Nov, 2019*
 
 ## 4. Gathering Votes & Support
 
