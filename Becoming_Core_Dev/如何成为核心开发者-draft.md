@@ -1,6 +1,6 @@
-# 如何成为核心开发者
+# 如何成为核心开发者 - 稿
 
-> *Ver. 1.3.0 (beta)* \| [English Ver.](Becoming_Core_Dev_v1.3.0.md)
+> *Ver. Draft* \| [English Ver.](Becoming_Core_Dev-draft.md)
 
 #### 目录
 

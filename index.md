@@ -2,7 +2,7 @@
 title: List of Content
 ---
 
-### [How to Become a Core Developer](Becoming_Core_Dev/Becoming_Core_Dev_v1.3.0.md)
+### [How to Become a Core Developer - Draft](Becoming_Core_Dev/Becoming_Core_Dev-draft.md)
 
 A document on what contribution can lead one to become a NEO core developer, and what becoming a core developer means
 
