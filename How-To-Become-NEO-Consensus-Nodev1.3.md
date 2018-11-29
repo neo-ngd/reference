@@ -11,7 +11,7 @@ title: null
       * [Current Consensus Nodes](#current-consensus-nodes)
       * [Distribution and Governance](#distribution-and-governance)
       * [Incentives](#incentives)
-* [1. Overview](#1-overview)
+  * [1. Overview](#1-overview)
   * [2. Requirements](#2-requirements)
   * [3. Partnering With NEO Foundation (Optional)](#3-partnering-with-neo-foundation-optional)
       * [3.1 Sending Application](#31-sending-application)
@@ -20,9 +20,9 @@ title: null
   * [4. Main-net Candidate & Voting](#4-main-net-candidate--voting)
     + [4.1 Registering As Candidate](#41-registering-as-candidate)
     + [4.2 Voting](#42-voting)
-* [5. Gather Votes & Support](#5-gather-votes--support)
-* [Appendix 1. Checking Candidates and Votes using API](#appendix-1-checking-candidates-and-votes-using-api)
-* [Appendix 2. Add Candidate Info to Consensus Node Page](#appendix-2-add-candidate-info-to-consensus-node-page)
+  * [5. Gather Votes & Support](#5-gather-votes--support)
+  * [Appendix 1. Checking Candidates and Votes using API](#appendix-1-checking-candidates-and-votes-using-api)
+  * [Appendix 2. Add Candidate Info to Consensus Node Page](#appendix-2-add-candidate-info-to-consensus-node-page)
 
 
 
