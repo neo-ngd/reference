@@ -1,6 +1,6 @@
 # How to Become A NEO Core Developer - *Draft*
 
-> *Ver. Draft*| [中文版](如何成为核心开发者-draft.md)
+> *Ver. Draft*\| [中文版](如何成为核心开发者.md)
 
 #### Table of Contents
 
