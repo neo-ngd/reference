@@ -78,7 +78,7 @@ Below is a timeline of how NEO is to be unlocked.
 | 2019 | 15 Million   | 95 Million         |
 | 2020 | 5 Million    | 100 Million        |
 
-<a="on-chain-off-chain"> </a>
+<a name="on-chain-off-chain"> </a>
 
 NEO is committed to building a decentralized network. But it is worth noting that due to the unlocking plan, NEO Foundation will have access to a considerable number of votes in the next few years. As a result, **the governance of NEO's network currently consists of two methods: chain governance and off-chain governance.**
 
