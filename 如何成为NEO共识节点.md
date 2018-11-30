@@ -1,7 +1,3 @@
----
-title: null
----
-
 # 如何成为NEO共识节点
 
 > *v1.3 \| [English ver.](How-To-Become-NEO-Consensus-Node.md)*
