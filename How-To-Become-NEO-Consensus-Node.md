@@ -92,7 +92,7 @@ NEO token holders are the network owners and managers, managing the network thro
 
 Off-chain governance relies on the continued support from NEO Foundation. 
 
-Aside from maintaining current consensus nodes, developing NEO's core projects and promoting NEO's ecosystem, NEO Foundation will vote for qualified partners who wish to run a consensus node. 
+Aside from maintaining current consensus nodes, developing NEO's core projects and promoting NEO's ecosystem, NEO Foundation will vote for qualified partners who wish to run a consensus node to support development of NEO ecosystem. 
 
 ### Incentives
 
