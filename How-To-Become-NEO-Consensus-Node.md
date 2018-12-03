@@ -1,7 +1,3 @@
----
-title: null
----
-
 # How To Become NEO Consensus Node
 
 > *version 1.3 \| [中文版](如何成为NEO共识节点.md)*
@@ -92,7 +88,7 @@ NEO token holders are the network owners and managers, managing the network thro
 
 Off-chain governance relies on the continued support from NEO Foundation. 
 
-Aside from maintaining current consensus nodes, developing NEO's core projects and promoting NEO's ecosystem, NEO Foundation will vote for qualified partners who wish to run a consensus node. 
+Aside from maintaining current consensus nodes, developing NEO's core projects and promoting NEO's ecosystem, NEO Foundation will vote for qualified partners who wish to run a consensus node to support development of NEO ecosystem. 
 
 ### Incentives
 
@@ -201,7 +197,7 @@ After 6 months of running the test-net, the applicant will be qualified to becom
 
 ### 3.3 NEO Foundation's Selection Schedule 
 
-Starting from 30th Nov, 2018, NEO Foundation complete a selection cycle for applicants every 3 months. NEO Foundation will aim to select at least one candidate based on their level of contribution to the NEO ecosystem. This means by 28th Feb, 2019, one or more new consensus nodes are likely to be chosen and be running on the test-net. Candidates who have applied but have not been chosen as consensus nodes will automatically enter the candidate pool for the next 3-month cycle. 
+Starting from 30th Nov, 2018, NEO Foundation complete a selection cycle for applicants every 3 months. NEO Foundation will try to select one candidate according to candidate's potential contribution to the NEO ecosystem. Candidates who have applied but have not been chosen as consensus nodes will automatically enter the candidate pool for the next 3-month cycle. 
 
 Below is the selection schedule in 2019: 
 
