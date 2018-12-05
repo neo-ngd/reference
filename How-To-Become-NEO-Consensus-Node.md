@@ -202,7 +202,7 @@ Starting from 30th Nov, 2018, NEO Foundation complete a selection cycle for appl
 Below is the selection schedule in 2019: 
 
 - *30th Nov, 2018 - 28th Feb, 2019*
-- *1st Mar 2019 - 31st May, 2019*
+- *1st Mar, 2019 - 31st May, 2019*
 - *1st Jun, 2019 - 31st Aug, 2019*
 - *1st Sep, 2019 - 30th Nov, 2019*
 
