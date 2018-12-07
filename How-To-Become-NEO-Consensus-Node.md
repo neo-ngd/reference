@@ -225,10 +225,19 @@ Each NEO node can vote for the candidates. The number of NEO in the current voti
 
 After voting, the NEO network calculates in real time based on the number of candidates cast by each account and determines the consensus nodes. The calculation method is:
 
-1. Sort the number of the candidates each account voted for by size, e.g. C1, C2, ..., Cn
-2. Remove the first 25% and the last 25% of the data in the array
-3. Calculate the weighted average of the remaining 50% data, which is then determined as the current NEO consensus node number N
-4. The top N candidates with the highest number of votes become consensus nodes
+  - First, candidate nodes are sorted by the number of votes they receive. 
+
+  - Then the network calculates *N*, which is how many top candidates in the sorted list are to be selected as consensus nodes: 
+
+    1. Sort the number of candidates each account voted for by size. e.g. C1, C2, ..., Cn
+
+    2. Remove the first 25% and the last 25% of the array. 
+
+    3. Calculate the *weighted average*\* of the remaining 50% data, which is then determined as the number of consensus nodes to be selected, N. 
+
+       > *\*: weighted average depends on the NEO held in each account. This means that accounts that hold more NEO contribute proportionally more to the average when calculating the number of consensus nodes to be selected.* 
+
+  - Once N is determined, the top N candidates with the highest number of votes become the consensus nodes. 
 
 #### 4.2.1 Voting with NEO GUI
 
