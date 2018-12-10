@@ -102,6 +102,20 @@ A core developer receives monetary rewards from NEO Foundation. Core developers 
 
 
 
+## Core Developer List
+
+A new list of core developers will be compiled each year. Contributors who qualify as core developers in the previous year may become core developers again through the same criteria. 
+
+#### Core Developers in 2019
+
+| Username | Projects |
+| -------- | -------- |
+|          |          |
+
+
+
+
+
 ---
 
 #### *References & Sources:* 
