@@ -249,7 +249,7 @@ Anyone holding NEO can vote using the GUI. Candidates are allowed to vote for th
 
 2. Right-click on the account -> `Vote`.
 
-3. In the Candidates field, enter the public key of the candidate to vote. You can enter multiple public keys separated by Line feeds. Note that each line cannot contain spaces, as shown in the following figure:
+3. In the Candidates field, enter the public key of the candidate to vote. You can enter multiple public keys separated by Line feeds. Note that each line cannot contain spaces, as shown in the following image:
 
    <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/votemulti-EN.png" width="725">
    *Example: giving three candidates each 100000000 votes.*
