@@ -11,7 +11,6 @@
   * [Responsibilities](#responsibilities)
   * [Incentivization](#incentivization)
 
-
 ---
 
 NEO operates as an open-source project. Developers who are interested in contributing to core NEO projects are welcomed and encouraged. Anyone can make contributions, ranging from GitHub issues, documentations to providing new features and patches. Those who have given consistent, high quality contributions to development be offered to become a Core Developer. 
@@ -96,15 +95,15 @@ The scope of some of the responsibilities above may vary according to the area y
 
 ## Incentivization
 
-A core developer receives monetary rewards from NEO Foundation. Core developers who make continued contributions in the future will be granted core developer rewards on a regular basis. 
+A core developer is added to the [Contributors Page](https://neo.org/team) on the NEO website. They will also be given quarterly monetary rewards. 
 
-*However, it is worth noting that community contributors who become 'core developers' do not become employees of NEO. The goal is to encourage and cultivate the interest in learning about and contributing to the fundamental levels of NEO's development.*
+> *Note that community contributors who become 'core developers' do not become employees of NEO. The goal is to encourage and cultivate the interest in learning about and contributing to the fundamental levels of NEO's development.*
 
 
 
 ## Core Developer List
 
-A new list of core developers will be compiled each year. Contributors who qualify as core developers in the previous year may become core developers again through the same criteria. 
+A new list of core developers will be compiled each year. The [Contributors Page](https://neo.org/team) will also be updated accordingly.  Contributors who qualify as core developers in the previous year may become core developers again through the same criteria. 
 
 #### Core Developers in 2019
 
