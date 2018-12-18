@@ -40,7 +40,7 @@ The NEO blockchain monitor is used for monitoring and displaying all NEO-related
 | Information                | Description                              |
 | -------------------------- | ---------------------------------------- |
 | Block Detail               | All information for each block, including height, hash, timestamp, transaction number, block size, validator, invocation script, verification script |
-| Assets                     | All assets on NEO, including asset name,asset id,supply number,addresses number, transaction number and registered address |
+| Assets                     | All assets on NEO, including asset name,asset id,total supply,total addresses, total transactions and registered address |
 | Banlance Rank              | The rank of balance of NEO/GAS token, display top 100 public address, balance with descending order |
 | Average Block Size         | Average block size per hour/day/month    |
 | Average Block Time         | Average time for the block to reach consensus per hour/day/month |
@@ -133,7 +133,7 @@ NEO区块链监控针对所有NEO相关实时和统计信息进行监控，一�
 | 监控信息                       | 备注                                       |
 | -------------------------- | ---------------------------------------- |
 | Block Detail               | 每个区块的具体信息，包含：高度，时间戳，事务个数，区块大小，验证程序，调用脚本，验证脚本 |
-| Assets                     | NEO所有资产，包含：资产名，资产ID，供应商号码，地址号，交易号，注册地址   |
+| Assets                     | NEO所有资产，包含：资产名，资产ID，供应商总数，地址总数，交易总数，注册地址   |
 | Banlance Rank              | NEO/GAS token的余额排名，显示余额最多的前100个token，包含：钱包地址， 余额 |
 | Average Block Size         | 每小时/每天/每月的平均区块大小                         |
 | Average Block Time         | 每小时/每天/每月区块用于达成共识的平均时间                   |
