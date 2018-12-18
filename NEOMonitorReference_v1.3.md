@@ -31,7 +31,6 @@ The NEO blockchain monitor is used for monitoring and displaying all NEO-related
 | Blockchain Height                | Height of the block chain                |
 | Lastest Block Size               | The size of the last block               |
 | Lastest Block Transactions Count | The transactions count of the last block |
-| Lastest Block Submitted Transactions Count | The transactions count submitted during last block | 
 | Lastest Block  Timestamp         | Time-stamp when the last block generated |
 | Consensus List                   | List of all consensus nodes              |
 | Candidate List                   | List of all candidate nodes              |
@@ -125,7 +124,6 @@ NEO区块链监控针对所有NEO相关实时和统计信息进行监控，一�
 | Blockchain Height                | 区块链的高度       |
 | Lastest Block Size               | 最后一个区块的大小    |
 | Lastest Block Transactions Count | 最后一个区块的交易数量  |
-| Lastest Block Submitted Transactions Count | 最后一个区块期间提交的交易数量 | 
 | Lastest Block  Timestamp         | 最后一个区块生成的时间戳 |
 | Consensus Node List              | 共识节点列表       |
 | Candidate Node list              | 候选节点列表       |
