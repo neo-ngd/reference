@@ -31,6 +31,7 @@ The NEO blockchain monitor is used for monitoring and displaying all NEO-related
 | Blockchain Height                | Height of the block chain                |
 | Lastest Block Size               | The size of the last block               |
 | Lastest Block Transactions Count | The transactions count of the last block |
+| Lastest Block Submitted Transactions Count | The transactions count submitted during last block | 
 | Lastest Block  Timestamp         | Time-stamp when the last block generated |
 | Consensus List                   | List of all consensus nodes              |
 | Candidate List                   | List of all candidate nodes              |
@@ -87,8 +88,6 @@ For security reasons, the IP of the consensus node and other important informati
 | Online Time             | The cumulative time that the node is online normally, based on the time of the monitor first run (hours) |
 | Latest Run Time         | The last time the node was monitored     |
 | Average latency         | Average latency of the node              |
-| Transactions per block  | Transactions count submitted every block in the past |
-| Transactions per second | Transactions count submitted every second in the past |
 | Peers                   | Peers count of the node                  |
 | Stability               | Percentage of the cumulative online time of the node |
 
@@ -126,6 +125,7 @@ NEO区块链监控针对所有NEO相关实时和统计信息进行监控，一�
 | Blockchain Height                | 区块链的高度       |
 | Lastest Block Size               | 最后一个区块的大小    |
 | Lastest Block Transactions Count | 最后一个区块的交易数量  |
+| Lastest Block Submitted Transactions Count | 最后一个区块期间提交的交易数量 | 
 | Lastest Block  Timestamp         | 最后一个区块生成的时间戳 |
 | Consensus Node List              | 共识节点列表       |
 | Candidate Node list              | 候选节点列表       |
@@ -179,9 +179,7 @@ NEO区块链监控针对所有NEO相关实时和统计信息进行监控，一�
 | First Run Time          | 节点第一次被监控到的时间，例如：x days x hours ago       |
 | Online Time             | 节点online的统计时间，以监控器第一次运行时间为准，例如：在线时长 x days x hours |
 | Latest Run Time         | 节点最后一次被监控的时间                             |
-| Average latency         | 节点的平均延时                                  |
-| Transactions per block  | 每个区块提交事务总数                               |
-| Transactions per second | 每秒提交事务总数                                 |
+| Average latency         | 节点的平均延时                                  |                              |
 | Peers                   | 与节点连接的Peers数                             |
 | Stability               | 节点在线时间的百分比                               |
 
