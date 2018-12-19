@@ -46,7 +46,7 @@ The NEO blockchain monitor is used for monitoring and displaying all NEO-related
 | Total Addresses Number     | Total number of created addresses        |
 | Active addresses           | The number of addresses  that have been transferred out within three month |
 | Claimed Gas                | Accumulated GAS value of all claim transactions |
-| Incentive to consensus node| The reward to the speaker node who produce a block, it can be obtained from the miner transaction of each block, and its value is equal to the sum of all the network fee in the block |
+| Incentive to consensus node| The reward to the speaker node per hour/day/month, it can be obtained from the miner transaction of each block, and its value is equal to the sum of all the network fee in the block |
 
 
 ## NEO Node
@@ -135,7 +135,7 @@ NEO区块链监控针对所有NEO相关实时和统计信息进行监控，一�
 | Total Addresses Number     | 创建的地址总数                                  |
 | Active addresses           | 在3月内有给其他地址转账的地址总数                        |
 | Claimed Gas                | 所有声明事务的累积GAS值                            |
-| Incentive to consensus node| 议长节点打包区块所获得的奖励，可从每一个区块的miner transaction中获得，其值等于该区块所有交易network fee的总和 |
+| Incentive to consensus node| 每小时/每天/每月议长节点打包区块所获得的奖励，可从每一个区块的miner transaction中获得，其值等于该区块所有交易network fee的总和 |
 
 
 
