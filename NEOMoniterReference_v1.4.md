@@ -8,14 +8,10 @@ title: null
 
 Change Log: 
 
-**NEO Node**
+**NEO Blockchain**
 
  - Statistic
-     - Add "Latest Run Time for statistic" for information 
-     - Add "Transactions per block" for information
-     - Add "Peers" for information
- - Realtime 
-     - Modify description for Node-state.  
+     - Add "Incentive to consensus node" for information  
 
 The purpose of this reference is to standardize the monitoring of NEO blockchains, primarily for `mainnet` and `testnet`. We hope that the blockchain monitors that oversee the NEO platform can be implemented according to the corresponding references.
 This paper is divided into two parts, the first part is the monitoring of NEO block information, and the second part is the monitoring of NEO node information. For those who want to develop programs that monitor NEO information, they can choose the functions they need to develop during the development process.
@@ -50,7 +46,7 @@ The NEO blockchain monitor is used for monitoring and displaying all NEO-related
 | Total Addresses Number     | Total number of created addresses        |
 | Active addresses           | The number of addresses  that have been transferred out within three month |
 | Claimed Gas                | Accumulated GAS value of all claim transactions |
-
+| Incentive to consensus node| The reward to the speaker node who produce a block, it can be obtained from the miner transaction of each block, and its value is equal to the sum of all the network fee in the block |
 
 
 ## NEO Node
@@ -100,14 +96,10 @@ For security reasons, the IP of the consensus node and other important informati
 
 Change Log: 
 
-**NEO Node**
+**NEO Blockchain**
 
 - 统计
-  - 新增 "Latest Run Time" 统计信息 
-  - 新增 "Transactions per block" 统计信息
-  - 新增 "Peers"统计信息
-- 实时 
-  - 对Node-state描述的更改.  
+  - 新增 "Incentive to consensus node" 统计信息 
 
 NEO监控标准旨在对NEO区块链，主要是主网和测试网的监控进行标准化。我们希望根据该监控标准实现的区块链监控器可以监督NEO平台的运行。
 
@@ -143,6 +135,7 @@ NEO区块链监控针对所有NEO相关实时和统计信息进行监控，一�
 | Total Addresses Number     | 创建的地址总数                                  |
 | Active addresses           | 在3月内有给其他地址转账的地址总数                        |
 | Claimed Gas                | 所有声明事务的累积GAS值                            |
+| Incentive to consensus node| 议长节点打包区块所获得的奖励，可从每一个区块的miner transaction中获得，其值等于该区块所有交易network fee的总和 |
 
 
 
@@ -180,4 +173,3 @@ NEO区块链监控针对所有NEO相关实时和统计信息进行监控，一�
 | Average latency         | 节点的平均延时                                  |                              |
 | Peers                   | 与节点连接的Peers数                             |
 | Stability               | 节点在线时间的百分比                               |
-
