@@ -1,6 +1,6 @@
 # 如何成为NEO共识节点
 
-> *v1.4 \| [English ver.](How-To-Become-NEO-Consensus-Node.md)*
+> *v1.3 \| [English ver.](How-To-Become-NEO-Consensus-Node.md)*
 
 ### **目录**
 
@@ -72,7 +72,7 @@ NEO 的 1 亿管理代币分为两部分，第一部分 5000 万份 NEO 用于�
 | 2019 | 1500 万 | 9500 万 |
 | 2020 | 500 万  | 1 亿    |
 
-> *\*: 实际的解锁量以NEO计划在2018年第四季度末发布的财务报表为准。*
+> *\*: 实际的解锁量以NEO的财务报表为准。*
 
 <a name="on-chain-off-chain"> </a>
 

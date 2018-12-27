@@ -74,7 +74,7 @@ Below is an *estimated*\* timeline of how NEO is to be unlocked.
 | 2019 | 15 Million   | 95 Million         |
 | 2020 | 5 Million    | 100 Million        |
 
-> \*: *The table is an outline of the plan, and does not represent the precise amount unlocked each year. For the precise amount, reference NEO's financial statements to be released at the end of Q4 2018.*
+> \*: *The table is an outline of the plan, and does not represent the precise amount unlocked each year. For the precise amount, reference NEO's financial statements to be released soon.*
 
 <a name="on-chain-off-chain"> </a>
 
