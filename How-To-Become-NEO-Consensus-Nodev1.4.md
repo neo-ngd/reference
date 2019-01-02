@@ -1,3 +1,7 @@
+---
+redirect_from:"How-To-Become-NEO-Consensus-Nodev1.2.html"
+---
+
 # How To Become NEO Consensus Node
 
 > *version 1.4 \| [中文版](如何成为NEO共识节点.md)*
