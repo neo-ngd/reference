@@ -1,6 +1,4 @@
----
-redirect_from:"How-To-Become-NEO-Consensus-Nodev1.2.html"
----
+
 
 # How To Become NEO Consensus Node
 
