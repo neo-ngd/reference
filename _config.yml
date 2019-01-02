@@ -51,3 +51,8 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  - jekyll-redirect-from
+
+collections:
+  redirects:
+    output: true
+    permalink: /:path/
