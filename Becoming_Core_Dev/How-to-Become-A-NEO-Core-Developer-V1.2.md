@@ -1,3 +1,7 @@
+---
+
+---
+
 # How to Become A NEO Core Developer
 
 > *Ver. 1.2* \| [中文版](如何成为核心开发者V1.2.md)
