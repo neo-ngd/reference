@@ -2,7 +2,7 @@
 
 > A browsable version of the documents is available [here](https://neo-ngd.github.io/reference)
 
-### [How to Become a Core Developer](Becoming_Core_Dev/How-to-Become-A-NEO-Core-Developer-V1.0.md)
+### [How to Become a Core Developer](Becoming_Core_Dev/How-to-Become-A-NEO-Core-Developer-V1.2.md)
 
 A document on what contribution can lead one to become a NEO core developer, and what becoming a core developer means. 
 
