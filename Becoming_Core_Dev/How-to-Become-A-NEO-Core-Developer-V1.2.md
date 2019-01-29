@@ -115,5 +115,5 @@ This section is dedicated to listing core developer lists as they are published 
 
 1. *[How To Contribute to Open Source](https://opensource.guide/how-to-contribute/)*
 2. *[neo-project contributors page](https://github.com/neo-project/neo/graphs/contributors)*
-3. [erikzhang/NeoCoreDevelopers](https://github.com/erikzhang/NeoCoreDeveloperss)
+3. [erikzhang/NeoCoreDevelopers](https://github.com/erikzhang/NeoCoreDevelopers)
 
