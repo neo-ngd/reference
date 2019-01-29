@@ -281,7 +281,7 @@ For chain governance candidates, gaining community understanding and support wil
 
 ## Appendix 1. Checking Candidates and Votes using API
 
-To check the number of votes on each candidate that has registered, you can use Postman or any other RPC program to access the API. (For instructions on how to, see [this document](Using RPC to Call NEO API.md))
+To check the number of votes on each candidate that has registered, you can use Postman or any other RPC program to access the API. (For instructions on how to, see [this document](https://github.com/taomo-eo/docs/blob/master/Becoming_Consensus_Node/Using%20RPC%20to%20Call%20NEO%20API.md))
 
 As shown below, send a `getvalidators` request to the API. 
 

@@ -255,7 +255,7 @@ NEO Foundation计划从2018年11月30日起，每隔三个月设为一个选举�
 
 ## 附录1. 用API查询候选人票数
 
-如果想要查询候选人名单和票数，可以使用Postman或任何其他RPC程序调用API来查询。(json-RPC调用API的具体步骤可[见此文档](使用RPC调用NEO%20API.md))
+如果想要查询候选人名单和票数，可以使用Postman或任何其他RPC程序调用API来查询。(json-RPC调用API的具体步骤可[见此文档](https://github.com/taomo-eo/docs/blob/master/Becoming_Consensus_Node/%E4%BD%BF%E7%94%A8RPC%E8%B0%83%E7%94%A8NEO%20API.md))
 
 如下图所示，调用`getvalidators`方法。
 
