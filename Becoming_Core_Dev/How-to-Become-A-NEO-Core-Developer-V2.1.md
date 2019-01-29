@@ -36,7 +36,7 @@ Community developers who have made outstanding contributions to the NEO core cod
 
 ### Projects to Contribute
 
-You can become a core developer by contributing to one or more of the following core project repositaries on GitHub. To contribute, please fork, fix, commit and send a Pull Request for the maintainers to review and merge into the main code base. Before sending a Pull Request, please consult the [**Contribution Guideline**](https://github.com/neo-project/neo#how-to-contribute) found on the NEO core project. 
+You can become a core developer by contributing to one or more of the following core project repositories on GitHub. To contribute, please fork, fix, commit and send a Pull Request for the maintainers to review and merge into the main code base. Before sending a Pull Request, please consult the [**Contribution Guideline**](https://github.com/neo-project/neo#how-to-contribute) found on the NEO core project. 
 
 - NEO's core project, VM, compilers, nodes and development packs. 
   - [neo](https://github.com/neo-project/neo)
