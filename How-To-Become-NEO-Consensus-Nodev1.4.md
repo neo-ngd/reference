@@ -108,7 +108,7 @@ As NEO currently has two components to its governance, (as detailed <a href="#us
 If you wish to become a consensus node through the votes of NEO holders and maintain it independently, the steps are as follows: 
 
 - [2. Requirements](#2-requirements)
-- [4. Main-net Candidate & Voting](#4-main-net-candidate---voting)
+- [4. Main-net Candidate & Voting](#4-main-net-candidate--voting)
 - [5. Gathering Votes & Support](#5-gathering-votes--support)
 
 **2) Off-chain governance Candidates**
@@ -117,7 +117,7 @@ If you want to establish a strategic partnership with the NEO Foundation (off-ch
 
 - [2. Requirements](#2-requirements)
 - [3. Partnering With NEO Foundation](#3-partnering-with-neo-foundation-optional)
-- [4. Main-net Candidate & Voting](#4-main-net-candidate---voting)
+- [4. Main-net Candidate & Voting](#4-main-net-candidate--voting)
 - [5. Gathering Votes & Support](#5-gathering-votes--support)
 
 ## 2. Requirements
