@@ -1,6 +1,6 @@
 # 如何成为NEO共识节点
 
-> *v1.4 \| [English ver.](How-To-Become-NEO-Consensus-Node.md)*
+> *v1.4 \| [English ver.](How-To-Become-NEO-Consensus-Nodev1.4.md)*
 
 ### **目录**
 

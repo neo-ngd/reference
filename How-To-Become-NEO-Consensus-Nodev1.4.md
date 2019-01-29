@@ -2,7 +2,7 @@
 
 # How To Become NEO Consensus Node
 
-> *version 1.4 \| [中文版](如何成为NEO共识节点.md)*
+> *version 1.4 \| [中文版](如何成为NEO共识节点v1.4.md)*
 
 #### Table Of Contents
   * [0. Background](#0-background)
