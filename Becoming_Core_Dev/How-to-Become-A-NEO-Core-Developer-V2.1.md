@@ -4,7 +4,7 @@
 
 # How to Become A NEO Core Developer
 
-> *Ver. 2.0* \| [中文版](如何成为核心开发者V2.0.md)
+> *Ver. 2.1* \| [中文版](如何成为核心开发者V2.0.md)
 
 #### Table of Contents
 
@@ -23,20 +23,20 @@
 
 NEO operates as an open-source project. Developers who are interested in contributing to core NEO projects are welcome and encouraged. Anyone can make contributions, ranging from GitHub issues, documentations to providing new features and patches. 
 
-Community developers who have made outstanding contributions to the NEO core code, after being evaluated by the NEO Foundation, are given the chance to become a 'Core Developer'. Core Developers have the authority to manage the core code base, and therefore, have more obligations to participate in core project contributions. 
+Community developers who have made outstanding contributions to the NEO core code, after being evaluated by the NEO Foundation, are given the chance to become a 'Core Developer.' Core Developers have the authority to manage the core code base, and therefore have more obligations to participate in core project contributions. 
 
 ### Why We Need More Core Developers
 
-1. As the NEO community grows, so does the need for the development of low-level infrastructure. The intention with awarding Core Developer roles is to deepen the engagement with developers who are currently making outstanding contributions to the NEO community, and motivating them to focus more on the low-level development of NEO. 
-2. NEO's code base is constantly improving, and therefore needs more maintainers. During the earlier stages of NEO development, Erik Zhang was the sole maintainer of the core project. But as NEO accelerates its decentralization, more power to the community in terms of the core code will benefit the overall development. 
+1. As the NEO community grows, so does the need for the development of low-level infrastructure. The intention of awarding Core Developer roles is to deepen the engagement with developers who are currently making outstanding contributions to the NEO community, and to motivate them to focus more on the low-level development of NEO. 
+2. NEO's code base is constantly improving, and therefore needs more maintainers. During the earlier stages of NEO development, Erik Zhang was the sole maintainer of the core project. But as NEO accelerates its decentralization, giving more power to the community in terms of the core code will benefit its overall development. 
 
-*Note that community contributors who become 'core developers' are not employees of NEO. The goal is to encourage and cultivate the interest in learning about and contributing to the fundamental levels of NEO's development.*
+*Note that community contributors who become 'core developers' are not employees of NEO. The goal is to encourage and cultivate interest in learning about and contributing to the fundamental levels of NEO's development.*
 
 ## Evaluation
 
 ### Projects to Contribute
 
-You can become a core developer by contributing to one or more of the following core projects on GitHub. To contribute, please fork, fix, commit and send a Pull Request for the maintainers to review and merge into the main code base. Before sending a Pull Request, please consult the [**Contribution Guideline**](https://github.com/neo-project/neo#how-to-contribute) found on the NEO core project. 
+You can become a core developer by contributing to one or more of the following core project repositaries on GitHub. To contribute, please fork, fix, commit and send a Pull Request for the maintainers to review and merge into the main code base. Before sending a Pull Request, please consult the [**Contribution Guideline**](https://github.com/neo-project/neo#how-to-contribute) found on the NEO core project. 
 
 - NEO's core project, VM, compilers, nodes and development packs. 
   - [neo](https://github.com/neo-project/neo)
@@ -46,13 +46,13 @@ You can become a core developer by contributing to one or more of the following 
   - [neo-gui](https://github.com/neo-project/neo-gui)
   - [neo-devpack-dotnet](https://github.com/neo-project/neo-devpack-dotnet)
 
-Contributor who make significant submissions to these repositories can become a core developer. See the next section for details on how contributions are evaluated. 
+Contributors who make significant submissions to these repositories may become core developers. See the next section for details on how contributions are evaluated. 
 
 ### Evaluation System
 
 The *Neo Core Developers* tool by Erik Zhang is written for the NEO Foundation to track contributions and evaluate contributors. Its source is available on [GitHub](https://github.com/erikzhang/NeoCoreDevelopers). 
 
-Each commit to one of the aforementioned repositories is evaluated and given a score of 'work' and 'importance' by NEO Foundation. 'Work' is a measure of the amount of changes or additions that the given commit contains. Therefore, longer commits tend to have a higher 'work' score. 'Importance' measures how valuable the change is to the project or NEO at large. The tool then assigns a score to each commit and contributor based on the two valued provided by NEO Foundation. 
+Each commit to one of the aforementioned repositories is evaluated and given a score of 'work' and 'importance' by NEO Foundation. 'Work' is a measure of the amount of changes or additions that the given commit contains. Therefore, longer commits tend to have a higher 'work' score. 'Importance' measures how valuable the change is to the project or NEO at large. The tool then assigns a score to each commit and contributor based on the two metrics provided by NEO Foundation. 
 
 For each commit, the score is calculated as: 
 
@@ -78,7 +78,7 @@ Core developers are able to approve or reject changes to the repository, they ar
 
 #### Issue Tracker
 
-You would be able to manage the `issues` tab on the GitHub repository, including opening and closing issues, and assigning issues to different categories and closing them. 
+You would be able to manage the `issues` tab on the GitHub repository, including opening and closing issues, and assigning issues to different categories. 
 
 ## Responsibilities
 
@@ -89,9 +89,9 @@ As core developers of the NEO core project, there is a shared responsibility to 
 - You are responsible for handling the consequences of accepting/committing a change into the code base. This mostly includes reverting or fixing the commit if it causes any problems for the project. 
 
 
-- You are responsible for for tracking the `issues` tab of the project you are contributing to. The core developer should reply to issues assigned to them, and decide when issues listed or changes proposed should be escalated for discussion with NEO developers. 
+- You are responsible for tracking the `issues` tab of the project you are contributing to. The core developer should reply to issues assigned to them, and decide when issues listed or changes proposed should be escalated for discussion with NEO developers. 
 
-The scope of some of the responsibilities above may vary according to the area you may choose to contribute. 
+The scope of some of the responsibilities above may vary according to the area you choose to contribute to. 
 
 ## Incentivization
 
