@@ -17,8 +17,8 @@
       * [3.3 NEO Foundation's Selection Schedule](#33-neo-foundations-selection-schedule)
   * [4. Main-net Candidate & Voting](#4-main-net-candidate--voting)
     + [4.1 Registering As Candidate](#41-registering-as-candidate)
-    + [4.2 Gather Votes & Support](#42-gather-votes--support)
-      + [4.2.0 Background: Voting Mechanism](#420-background-voting-mechanism)
+    + [4.2 Gathering Votes & Support](#42-gathering-votes--support)
+      + [4.2.0 Background: Voting Mechanism](#420-background-the-voting-mechanism)
       + [4.2.1 Voting with NEO GUI](#421-voting-with-neo-gui)
   * [5. Updating the Consensus Node](#5-updating-the-consensus-node)
   * [Appendix 1. Checking Candidates and Votes using API](#appendix-1-checking-candidates-and-votes-using-api)
@@ -281,7 +281,6 @@ When maintaining a consensus node, there will be updates to the NEO node (neo-cl
 1. NGD will test the new patch of neo-cli. Once the patch passes the test, they will coordinate with test-net consensus node maintainers to carry out an update. 
 2. Typically, once the new patch can run on the test-net for ***two consecutive weeks*** without problems, it will be rolled out on the main-net. NGD will coordinate with main-net consensus node to update to the latest patch. 
 3. An update is completed once all main-net consensus nodes are running the latest patch. 
-
 
 
 ---
