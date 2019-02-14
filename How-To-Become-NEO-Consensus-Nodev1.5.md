@@ -111,7 +111,7 @@ If you wish to become a consensus node through the votes of NEO holders and main
 
 - [2. Requirements](#2-requirements)
 - [4. Main-net Candidate & Voting](#4-main-net-candidate--voting)
-- [5. Gathering Votes & Support](#5-gathering-votes--support)
+- [5. Updating the Consensus Node](#5-updating-the-consensus-node)
 
 **2) Off-chain governance Candidates**
 
@@ -120,7 +120,7 @@ If you want to establish a strategic partnership with the NEO Foundation (off-ch
 - [2. Requirements](#2-requirements)
 - [3. Partnering With NEO Foundation](#3-partnering-with-neo-foundation-optional)
 - [4. Main-net Candidate & Voting](#4-main-net-candidate--voting)
-- [5. Gathering Votes & Support](#5-gathering-votes--support)
+- [5. Updating the Consensus Node](#5-updating-the-consensus-node)
 
 ## 2. Requirements
 
@@ -205,6 +205,8 @@ After 6 months of running the test-net, the applicant will be qualified to becom
 
 Starting from 30th Nov, 2018, NEO Foundation complete a selection cycle for applicants every 3 months. NEO Foundation will try to select one candidate according to candidate's potential contribution to the NEO ecosystem. Candidates who have applied but have not been chosen as consensus nodes will automatically enter the candidate pool for the next 3-month cycle. 
 
+When all 7 [current consensus nodes](#current-consensus-nodes) have been decentralized, NEO Foundation will decide in the following election cycle whether or not there will be more consensus nodes beyond that. 
+
 Below is the selection schedule in 2019: 
 
 - *30th Nov, 2018 - 28th Feb, 2019*
@@ -276,11 +278,14 @@ Anyone holding NEO can vote using the GUI. Candidates are allowed to vote for th
 
 > **Applicable to consensus node maintainers**
 
+NEO is a network that will continuously be updated. The current version of the NEO network is determined by the version of the consensus nodes(currently using neo-cli). 
+
 When maintaining a consensus node, there will be updates to the NEO node (neo-cli) which the maintainers  will need to carry out. Below is a procedure to each NEO node update: 
 
-1. NGD will test the new patch of neo-cli. Once the patch passes the test, they will coordinate with test-net consensus node maintainers to carry out an update. 
-2. Typically, once the new patch can run on the test-net for ***two consecutive weeks*** without problems, it will be rolled out on the main-net. NGD will coordinate with main-net consensus node to update to the latest patch. 
-3. An update is completed once all main-net consensus nodes are running the latest patch. 
+1. NGD will test the latest patch of neo-cli for bugs and other problems. 
+2. Once the patch passes the test, they will coordinate with test-net consensus node maintainers to carry out an update. 
+3. Typically, once the new patch can run on the test-net for ***two consecutive weeks*** without problems, it will be rolled out on the main-net. NGD will coordinate with main-net consensus node to update to the latest patch. 
+4. An update is completed once all main-net consensus nodes are running the latest patch. 
 
 
 ---
@@ -336,3 +341,4 @@ The [Consensus Nodes](http://neo.org/consensus) page can be used to track the st
    <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/consensusSite6a-EN.png" width="620">
 
    If the green arrow to the right of your node on the page is green and expandable,  then your candidate info is successfully submitted! 
+
