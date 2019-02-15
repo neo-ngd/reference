@@ -80,7 +80,7 @@ Below is an *estimated*\* timeline of how NEO is to be unlocked.
 
 > \*: *The table is an outline of the plan, and does not represent the precise amount unlocked each year. For the precise amount, reference NEO's financial statements to be released soon.*
 
-<a name="on-chain-off-chain"> </a>
+<a name="user-content-on-chain-off-chain"> </a>
 
 NEO is committed to building a decentralized network. But it is worth noting that due to the unlocking plan, NEO Foundation will have access to a considerable number of votes in the next few years. As a result, **the governance of NEO's network currently consists of two methods: chain governance and off-chain governance.**
 
@@ -286,7 +286,6 @@ When maintaining a consensus node, there will be updates to the NEO node (neo-cl
 2. Once the patch passes the test, they will coordinate with test-net consensus node maintainers to carry out an update. 
 3. Typically, once the new patch can run on the test-net for ***two consecutive weeks*** without problems, it will be rolled out on the main-net. NGD will coordinate with main-net consensus node to update to the latest patch. 
 4. An update is completed once all main-net consensus nodes are running the latest patch. 
-
 
 ---
 
