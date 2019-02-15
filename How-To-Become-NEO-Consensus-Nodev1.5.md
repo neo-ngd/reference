@@ -98,8 +98,9 @@ Aside from maintaining current consensus nodes, developing NEO's core projects a
 
 ### Incentives
 
-According to NEO's economic model, the maintainer of NEO consensus node will be rewarded with network fees. New economical model is being discussed.  
-This section will be updated if the incentive mechanism changes. 
+The maintainer of NEO consensus node will be rewarded with network fees, which is the GAS that the network charges users whenever they use the resources of the network. 
+
+NEO 3.0 will have more detailed discussions on the incentive models of the network. So this section will see continuous updates in the future. 
 
 ## 1. Overview
 
