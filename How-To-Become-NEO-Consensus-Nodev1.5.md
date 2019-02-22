@@ -7,7 +7,8 @@
 #### Table Of Contents
   * [0. Background](#0-background)
       * [Current Consensus Nodes](#current-consensus-nodes)
-      * [Distribution and Governance](#distribution-and-governance)
+      * [Token Distribution](#token-distribution)
+      * [Governance Models](#governance-models)
       * [Incentives](#incentives)
   * [1. Overview](#1-overview)
   * [2. Requirements](#2-requirements)
@@ -46,7 +47,7 @@ The NEO test-net currently has 7 consensus nodes.
 - KPN maintains 1node
 - Swisscom maintains 1 node
 
-### Distribution and Governance
+### Token Distribution
 
 NEO has two native tokens, NEO (abbreviated symbol NEO) and NeoGas (abbreviated symbol GAS).
 
@@ -82,6 +83,8 @@ Below is an *estimated*\* timeline of how NEO is to be unlocked.
 
 <a name="user-content-on-chain-off-chain"> </a>
 
+### Governance Models
+
 NEO is committed to building a decentralized network. But it is worth noting that due to the unlocking plan, NEO Foundation will have access to a considerable number of votes in the next few years. As a result, **the governance of NEO's network currently consists of two methods: chain governance and off-chain governance.**
 
 #### On-Chain Governance
@@ -104,7 +107,7 @@ NEO 3.0 will have more detailed discussions on the incentive models of the netwo
 
 ## 1. Overview
 
-As NEO currently has two components to its governance, (as detailed <a href="#user-content-on-chain-off-chain">here</a> in the previous section) there are two ways of becoming a consensus node. 
+As NEO currently has two components to its governance, (as detailed in the [Governance Models](#governance-models) section) there are two ways of becoming a consensus node. 
 
 **1) On-Chain governance Candidates**
 
@@ -125,7 +128,7 @@ If you want to establish a strategic partnership with the NEO Foundation (off-ch
 
 ## 2. Requirements
 
-> **Applicable to both chain governance and off-chain governance candidates.**
+> **Applicable to both on-chain governance and off-chain governance candidates.**
 
 All potential candidates are advised to provide some, or all of the information listed below. These information can be published on the [Consensus Node Page](#appendix-2-add-candidate-info-to-consensus-node-page) and the organization's official website. 
 
