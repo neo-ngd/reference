@@ -48,7 +48,7 @@ Contributor who make significant submissions to these repositories can become a 
 
 The *Neo Core Developers* tool by Erik Zhang is written for the NEO Foundation to track contributions and evaluate contributors. Its source is available on [GitHub](https://github.com/erikzhang/NeoCoreDevelopers). 
 
-Each commit to one of the aforementioned repositories is evaluated and given a score of 'work' and 'importance' by NEO Foundation. 'Work' is a measure of the amount of changes or additions that the given commit contains. Therefore, longer commits tend to have a higher 'work' score. 'Importance' measures how valuable the change is to the project or NEO at large. The tool then assigns a score to each commit and contributor based on the two valued provided by NEO Foundation. 
+Each commit to one of the aforementioned repositories is evaluated and given a score of 'work' and 'importance' by NEO Foundation. 'Work' is a measure of the amount of changes or additions that the given commit contains. Therefore, longer commits tend to have a higher 'work' score. 'Importance' measures how valuable the change is to the project or NEO at large. The tool then assigns a score to each commit and contributor based on the two values provided by NEO Foundation. 
 
 For each commit, the score is calculated as: 
 
@@ -99,7 +99,7 @@ Currently *Dollars Per Point* is set by NEO Foundation at $200.
 
 ## Core Developer List
 
-A list of core developers will be compiled at the end of each year. The [Contributors Page](https://neo.org/team) on GitHub will also be updated accordingly.  Contributors who qualify as core developers in the previous year may become core developers again through the same criteria. 
+A list of core developers will be compiled at the end of each year. The [Contributors Page](https://neo.org/team) on neo.org will also be updated accordingly.  Contributors who qualify as core developers in the previous year may become core developers again through the same criteria. 
 
 This section is dedicated to listing core developer lists as they are published each year. 
 
