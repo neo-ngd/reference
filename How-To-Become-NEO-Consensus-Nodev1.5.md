@@ -267,16 +267,18 @@ After voting, the NEO network calculates in real time* based on the number of ca
 
 Anyone holding NEO can vote using the GUI. Candidates are allowed to vote for their own nodes. 
 
-1. In NEO-GUI, open the wallet account to vote. 
+1. Go to the [Consensus Node page](https://neo.org/consensus) to view information on registered candidates, and find public keys of the candidate(s) that you wish to vote for. 
 
-2. Right-click on the account -> `Vote`.
+2. In NEO-GUI, open the wallet account to vote. 
 
-3. In the Candidates field, enter the public key of the candidate to vote. You can enter multiple public keys separated by Line feeds. Note that each line cannot contain spaces, as shown in the following image:
+3. Right-click on the account -> `Vote`.
+
+4. In the Candidates field, enter the *Public Key* of the candidates you wish to vote for. You can enter multiple public keys separated by Line feeds. Note that each line cannot contain spaces, as shown in the following image:
 
    <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/votemulti-EN.png" width="725">
    *Example: giving three candidates each 100000000 votes.*
 
-4. If the message of a transaction ID is displayed, then you have voted successfully. You can check the number of votes for each candidate by accessing the API. (See [Appendix 1](#appendix-1-checking-candidates-and-votes-using-api))
+5. If the message of a transaction ID is displayed, then you have voted successfully. You can check the number of votes for each candidate by accessing the API (See [Appendix 1](#appendix-1-checking-candidates-and-votes-using-api)), or check the vote count on the [Consensus Node page](https://neo.org/consensus), which may take some time to update. 
 
 ## 5. Updating the Consensus Node
 
