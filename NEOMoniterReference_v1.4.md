@@ -72,6 +72,8 @@ For security reasons, the IP of the consensus node and other important informati
 | RPC-state       | RPC state: enable or disable, standard port: 10331 for https, 10332 for http |
 | Transaction     | Unconfirmed transactions count in the node memory |
 | Wallet-state    | Get node wallet state: closed or not closed |
+| mempool status  | show all transaction hashes in mempool of each node with order, especially for a better visualization |
+| transaction status(optional) | when user search on the page with a given transaction hash, then it can show which node the transaction belongs to |
 
 
 
