@@ -164,7 +164,7 @@ NEO区块链监控针对所有NEO相关实时和统计信息进行监控，一�
 | RPC-state       | RPC 状态: enable or disable, standard port: 10331 for https, 10332 for http |
 | Transaction     | 节点内存中未确认的事务数                             |
 | Wallet-state    | 获取节点钱包状态：closed/not closed               |
-| Mempool status  | 显示每个节点的mempool中所有交易的哈希值，以可视化的方式更清楚直观地进行展示             |
+| Mempool status  | 按顺序显示每个节点的mempool中所有交易的哈希值，以可视化的方式更清楚直观地进行展示             |
 | Node of a transaction(optional) | 使用给定的哈希值进行查询，可以显示其所在mempool的节点名称              |
 
 #### Statistic
