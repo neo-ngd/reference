@@ -1,7 +1,5 @@
 # NEO Monitor Reference
-version: 1.4
-
-> *Read this in other languages: [简体中文](#neo-监控标准).*
+> *version 1.5 \| [简体中文](#neo-监控标准).*
 
 Change Log: 
 
