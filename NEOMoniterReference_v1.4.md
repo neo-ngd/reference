@@ -1,5 +1,5 @@
 # NEO Monitor Reference
-> *version 1.5 \| [简体中文](#neo-监控标准).*
+> *version 1.4 \| [简体中文](#neo-监控标准).*
 
 Change Log: 
 
