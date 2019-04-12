@@ -2,7 +2,7 @@
 title: List of Content
 ---
 
-### [How to Become a Core Developer](Becoming_Core_Dev/How-to-Become-A-NEO-Core-Developer-V1.2.html)
+### [How to Become a Core Developer](Becoming_Core_Dev/How-to-Become-A-NEO-Core-Developer.html)
 
 A document on what contribution can lead one to become a NEO core developer, and what becoming a core developer means
 
@@ -10,7 +10,7 @@ A document on what contribution can lead one to become a NEO core developer, and
 
 The purpose of this is to introduce the background to NEO's consensus node governing models and provide a guide on how to become a consensus node on the NEO network. 
 
-### [NEO Monitor Reference](NEOMonitorReference_v1.4.md)
+### [NEO Monitor Reference](NEOMonitorReference.md)
 
 The purpose of this reference is to standardize the monitoring of NEO blockchains, primarily for main-net and test-net. 
 
