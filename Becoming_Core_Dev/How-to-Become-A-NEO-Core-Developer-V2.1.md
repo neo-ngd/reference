@@ -48,11 +48,7 @@ Contributors who make significant submissions to these repositories may become c
 
 The *Neo Core Developers* tool by Erik Zhang is written for the NEO Foundation to track contributions and evaluate contributors. Its source is available on [GitHub](https://github.com/erikzhang/NeoCoreDevelopers). 
 
-<<<<<<< HEAD:Becoming_Core_Dev/How-to-Become-A-NEO-Core-Developer-V2.0.md
-Each commit to one of the aforementioned repositories is evaluated and given a score of 'work' and 'importance' by NEO Foundation. 'Work' is a measure of the amount of changes or additions that the given commit contains. Therefore, longer commits tend to have a higher 'work' score. 'Importance' measures how valuable the change is to the project or NEO at large. The tool then assigns a score to each commit and contributor based on the two values provided by NEO Foundation. 
-=======
 Each commit to one of the aforementioned repositories is evaluated and given a score of 'work' and 'importance' by NEO Foundation. 'Work' is a measure of the amount of changes or additions that the given commit contains. Therefore, longer commits tend to have a higher 'work' score. 'Importance' measures how valuable the change is to the project or NEO at large. The tool then assigns a score to each commit and contributor based on the two metrics provided by NEO Foundation. 
->>>>>>> c25aa22a07f806d031258de28bb93475746b26b8:Becoming_Core_Dev/How-to-Become-A-NEO-Core-Developer-V2.1.md
 
 For each commit, the score is calculated as: 
 
