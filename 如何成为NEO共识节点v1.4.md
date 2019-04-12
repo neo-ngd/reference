@@ -1,6 +1,6 @@
 # 如何成为NEO共识节点
 
-> *v1.3 \| [English ver.](How-To-Become-NEO-Consensus-Node.md)*
+> *v1.4 \| [English ver.](How-To-Become-NEO-Consensus-Nodev1.4.md)*
 
 ### **目录**
 
@@ -106,7 +106,7 @@ NEO的治理分为两部分，线上治理和线下治理，对于不同的治�
 
 - [2.共识节点要求](#2-共识节点要求)
 - [4.主网参选](#4-主网参选)
-- [5.获得支持](5-获得支持)
+- [5.获得支持](#5-获得支持)
 
 **2) 链下治理申请人**
 
@@ -255,7 +255,7 @@ NEO Foundation计划从2018年11月30日起，每隔三个月设为一个选举�
 
 ## 附录1. 用API查询候选人票数
 
-如果想要查询候选人名单和票数，可以使用Postman或任何其他RPC程序调用API来查询。(json-RPC调用API的具体步骤可[见此文档](使用RPC调用NEO%20API.md))
+如果想要查询候选人名单和票数，可以使用Postman或任何其他RPC程序调用API来查询。(json-RPC调用API的具体步骤可[见此文档](https://github.com/taomo-eo/docs/blob/master/Becoming_Consensus_Node/%E4%BD%BF%E7%94%A8RPC%E8%B0%83%E7%94%A8NEO%20API.md))
 
 如下图所示，调用`getvalidators`方法。
 

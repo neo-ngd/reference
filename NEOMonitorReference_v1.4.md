@@ -1,10 +1,5 @@
----
-title: null
----
-
 # NEO Monitor Reference
-
-> *Read this in other languages: [简体中文](#neo-监控标准).*
+> *version 1.4 \| [简体中文](#neo-监控标准).*
 
 Change Log: 
 
@@ -72,6 +67,8 @@ For security reasons, the IP of the consensus node and other important informati
 | RPC-state       | RPC state: enable or disable, standard port: 10331 for https, 10332 for http |
 | Transaction     | Unconfirmed transactions count in the node memory |
 | Wallet-state    | Get node wallet state: closed or not closed |
+| Mempool status  | show all transaction hashes in mempool of each node with order, especially for a better visualization |
+| Node of a transaction(optional) | when user search on the page with a given transaction hash, then it can show which node the transaction belongs to |
 
 
 
@@ -92,7 +89,7 @@ For security reasons, the IP of the consensus node and other important informati
 
 # NEO 监控标准 
 
-> *其他语言: [英文](#neo-monitor-reference).*
+> *v1.4 \| [English ver.](#neo-monitor-reference)*
 
 Change Log: 
 
@@ -162,6 +159,8 @@ NEO区块链监控针对所有NEO相关实时和统计信息进行监控，一�
 | RPC-state       | RPC 状态: enable or disable, standard port: 10331 for https, 10332 for http |
 | Transaction     | 节点内存中未确认的事务数                             |
 | Wallet-state    | 获取节点钱包状态：closed/not closed               |
+| Mempool status  | 按顺序显示每个节点的mempool中所有交易的哈希值，以可视化的方式更清楚直观地进行展示             |
+| Node of a transaction(optional) | 使用给定的哈希值进行查询，可以显示其所在mempool的节点名称              |
 
 #### Statistic
 

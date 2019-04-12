@@ -2,7 +2,7 @@
 
 # How To Become NEO Consensus Node
 
-> *version 1.4 \| [中文版](如何成为NEO共识节点.md)*
+> *version 1.4 \| [中文版](如何成为NEO共识节点v1.4.md)*
 
 #### Table Of Contents
   * [0. Background](#0-background)
@@ -108,7 +108,7 @@ As NEO currently has two components to its governance, (as detailed <a href="#us
 If you wish to become a consensus node through the votes of NEO holders and maintain it independently, the steps are as follows: 
 
 - [2. Requirements](#2-requirements)
-- [4. Main-net Candidate & Voting](#4-main-net-candidate---voting)
+- [4. Main-net Candidate & Voting](#4-main-net-candidate--voting)
 - [5. Gathering Votes & Support](#5-gathering-votes--support)
 
 **2) Off-chain governance Candidates**
@@ -117,7 +117,7 @@ If you want to establish a strategic partnership with the NEO Foundation (off-ch
 
 - [2. Requirements](#2-requirements)
 - [3. Partnering With NEO Foundation](#3-partnering-with-neo-foundation-optional)
-- [4. Main-net Candidate & Voting](#4-main-net-candidate---voting)
+- [4. Main-net Candidate & Voting](#4-main-net-candidate--voting)
 - [5. Gathering Votes & Support](#5-gathering-votes--support)
 
 ## 2. Requirements
@@ -281,7 +281,7 @@ For chain governance candidates, gaining community understanding and support wil
 
 ## Appendix 1. Checking Candidates and Votes using API
 
-To check the number of votes on each candidate that has registered, you can use Postman or any other RPC program to access the API. (For instructions on how to, see [this document](Using RPC to Call NEO API.md))
+To check the number of votes on each candidate that has registered, you can use Postman or any other RPC program to access the API. (For instructions on how to, see [this document](https://github.com/taomo-eo/docs/blob/master/Becoming_Consensus_Node/Using%20RPC%20to%20Call%20NEO%20API.md))
 
 As shown below, send a `getvalidators` request to the API. 
 

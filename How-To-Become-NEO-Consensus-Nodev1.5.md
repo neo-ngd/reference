@@ -1,11 +1,14 @@
+
+
 # How To Become NEO Consensus Node
 
-> *version 1.4 \| [中文版](如何成为NEO共识节点.md)*
+> *version 1.5 \| [中文版](如何成为NEO共识节点v1.5.md)*
 
 #### Table Of Contents
   * [0. Background](#0-background)
       * [Current Consensus Nodes](#current-consensus-nodes)
-      * [Distribution and Governance](#distribution-and-governance)
+      * [Token Distribution](#token-distribution)
+      * [Governance Models](#governance-models)
       * [Incentives](#incentives)
   * [1. Overview](#1-overview)
   * [2. Requirements](#2-requirements)
@@ -15,8 +18,10 @@
       * [3.3 NEO Foundation's Selection Schedule](#33-neo-foundations-selection-schedule)
   * [4. Main-net Candidate & Voting](#4-main-net-candidate--voting)
     + [4.1 Registering As Candidate](#41-registering-as-candidate)
-    + [4.2 Voting](#42-voting)
-  * [5. Gather Votes & Support](#5-gather-votes--support)
+    + [4.2 Gathering Votes & Support](#42-gathering-votes--support)
+      + [4.2.0 Background: Voting Mechanism](#420-background-the-voting-mechanism)
+      + [4.2.1 Voting with NEO GUI](#421-voting-with-neo-gui)
+  * [5. Updating the Consensus Node](#5-updating-the-consensus-node)
   * [Appendix 1. Checking Candidates and Votes using API](#appendix-1-checking-candidates-and-votes-using-api)
   * [Appendix 2. Add Candidate Info to Consensus Node Page](#appendix-2-add-candidate-info-to-consensus-node-page)
 
@@ -42,7 +47,7 @@ The NEO test-net currently has 7 consensus nodes.
 - KPN maintains 1node
 - Swisscom maintains 1 node
 
-### Distribution and Governance
+### Token Distribution
 
 NEO has two native tokens, NEO (abbreviated symbol NEO) and NeoGas (abbreviated symbol GAS).
 
@@ -76,7 +81,9 @@ Below is an *estimated*\* timeline of how NEO is to be unlocked.
 
 > \*: *The table is an outline of the plan, and does not represent the precise amount unlocked each year. For the precise amount, reference NEO's financial statements to be released soon.*
 
-<a name="on-chain-off-chain"> </a>
+<a name="user-content-on-chain-off-chain"> </a>
+
+### Governance Models
 
 NEO is committed to building a decentralized network. But it is worth noting that due to the unlocking plan, NEO Foundation will have access to a considerable number of votes in the next few years. As a result, **the governance of NEO's network currently consists of two methods: chain governance and off-chain governance.**
 
@@ -94,20 +101,21 @@ Aside from maintaining current consensus nodes, developing NEO's core projects a
 
 ### Incentives
 
-According to NEO's economic model, the maintainer of NEO consensus node will be rewarded with network fees. New economical model is being discussed.  
-This section will be updated if the incentive mechanism changes. 
+The maintainer of NEO consensus node will be rewarded with network fees, which is the GAS that the network charges users whenever they use the resources of the network. 
+
+NEO 3.0 will have more detailed discussions on the incentive models of the network. So this section will see continuous updates in the future. 
 
 ## 1. Overview
 
-As NEO currently has two components to its governance, (as detailed <a href="#user-content-on-chain-off-chain">here</a> in the previous section) there are two ways of becoming a consensus node. 
+As NEO currently has two components to its governance, (as detailed in the [Governance Models](#governance-models) section) there are two ways of becoming a consensus node. 
 
 **1) On-Chain governance Candidates**
 
 If you wish to become a consensus node through the votes of NEO holders and maintain it independently, the steps are as follows: 
 
 - [2. Requirements](#2-requirements)
-- [4. Main-net Candidate & Voting](#4-main-net-candidate---voting)
-- [5. Gathering Votes & Support](#5-gathering-votes--support)
+- [4. Main-net Candidate & Voting](#4-main-net-candidate--voting)
+- [5. Updating the Consensus Node](#5-updating-the-consensus-node)
 
 **2) Off-chain governance Candidates**
 
@@ -115,12 +123,12 @@ If you want to establish a strategic partnership with the NEO Foundation (off-ch
 
 - [2. Requirements](#2-requirements)
 - [3. Partnering With NEO Foundation](#3-partnering-with-neo-foundation-optional)
-- [4. Main-net Candidate & Voting](#4-main-net-candidate---voting)
-- [5. Gathering Votes & Support](#5-gathering-votes--support)
+- [4. Main-net Candidate & Voting](#4-main-net-candidate--voting)
+- [5. Updating the Consensus Node](#5-updating-the-consensus-node)
 
 ## 2. Requirements
 
-> **Applicable to both chain governance and off-chain governance candidates.**
+> **Applicable to both on-chain governance and off-chain governance candidates.**
 
 All potential candidates are advised to provide some, or all of the information listed below. These information can be published on the [Consensus Node Page](#appendix-2-add-candidate-info-to-consensus-node-page) and the organization's official website. 
 
@@ -201,6 +209,8 @@ After 6 months of running the test-net, the applicant will be qualified to becom
 
 Starting from 30th Nov, 2018, NEO Foundation complete a selection cycle for applicants every 3 months. NEO Foundation will try to select one candidate according to candidate's potential contribution to the NEO ecosystem. Candidates who have applied but have not been chosen as consensus nodes will automatically enter the candidate pool for the next 3-month cycle. 
 
+When all 7 [current consensus nodes](#current-consensus-nodes) have been decentralized, NEO Foundation will decide in the following election cycle whether or not there will be more consensus nodes beyond that. 
+
 Below is the selection schedule in 2019: 
 
 - *30th Nov, 2018 - 28th Feb, 2019*
@@ -215,9 +225,19 @@ Below is the selection schedule in 2019:
 
 ### 4.1 Registering as Candidate
 
-Make sure your NEO GUI is connected to the main-net; Then register as a candidate by repeating the steps in [2.2.1](#221-registering-as-candidate)
+Make sure your NEO GUI is connected to the main-net; Then register as a candidate by repeating the steps in [3.2.1](#321-registering-as-candidate)
 
-### 4.2 Voting
+### 4.2 Gathering Votes & Support
+
+Once successfully becoming a candidate on the blockchain, off-chain governance candidates will receive votes from NEO Foundation. 
+
+For chain governance candidates, gaining community understanding and support will increase the likelihood that NEO holders will vote. These are some of the advised actions: 
+
+- Adding candidate information to the [Consensus Nodes](http://neo.org/consensus) page on the NEO website. [See Appendix 2 on how to do it.](#appendix-2-add-candidate-info-to-consensus-node-page)
+- Make a page for running NEO consensus node on the organisation/candidate's own website.  
+- Let the community know your candidacy through NEO's Reddit, Discord and other community platforms. 
+
+The following sections goes into more detail on the voting mechanism and how any NEO node can vote using the NEO GUI. 
 
 #### 4.2.0 BACKGROUND: The Voting Mechanism\*
 
@@ -225,21 +245,21 @@ Make sure your NEO GUI is connected to the main-net; Then register as a candidat
 
 Each NEO node can vote for the candidates. The number of NEO in the current voting account will be automatically calculated as the number of the candidate's votes. When voting for multiple candidates, each candidate gets the votes equal to the NEO number of the current voting account. For example, if there are 100 NEO in the current account and three candidates are voted for from this account, each candidate receives 100 votes. If NEO in the account is spent after the vote, the candidates' votes will simultaneously be decreased to the current NEO balance.
 
-After voting, the NEO network calculates in real time based on the number of candidates cast by each account and determines the consensus nodes. The calculation method is:
+After voting, the NEO network calculates in real time* based on the number of candidates cast by each account and determines the consensus nodes. The calculation method is:
 
-  - First, candidate nodes are sorted by the number of votes they receive. 
+> \*: *which means that this calculation is made each time a block is produced*
 
-  - Then the network calculates *N*, which is how many top candidates in the sorted list are to be selected as consensus nodes: 
+  - First, the network calculates ***N***, which is how many Consensus Nodes are going to be chosen. ***N*** is calculated as follows: 
 
     1. Sort the number of candidates each account voted for by size. e.g. C1, C2, ..., Cn
 
     2. Remove the first 25% and the last 25% of the array. 
 
-    3. Calculate the *weighted average*\* of the remaining 50% data, which is then determined as the number of consensus nodes to be selected, N. 
+    3. Calculate the *weighted average*\* of the remaining 50% data, which is then determined as the number of consensus nodes to be selected, ***N***. 
 
-       > *\*: weighted average depends on the NEO held in each account. This means that accounts that hold more NEO contribute proportionally more to the average when calculating the number of consensus nodes to be selected.* 
+       > *\*: weighted average depends on the NEO held in each account. This means that accounts that hold more NEO contribute more to the average when calculating the number of consensus nodes to be selected.* 
 
-  - Once N is determined, the top N candidates with the highest number of votes become the consensus nodes. 
+  - Once N is determined, then all candidates, including nodes that are already consensus nodes are sorted by the number of votes they receive, and the network chooses the top ***N*** candidate nodes as Consensus Nodes.  
 
 #### 4.2.1 Voting with NEO GUI
 
@@ -247,39 +267,38 @@ After voting, the NEO network calculates in real time based on the number of can
 
 Anyone holding NEO can vote using the GUI. Candidates are allowed to vote for their own nodes. 
 
-1. In NEO-GUI, open the wallet account to vote. 
+1. Go to the [Consensus Node page](https://neo.org/consensus) to view information on registered candidates, and find public keys of the candidate(s) that you wish to vote for. 
 
-2. Right-click on the account -> `Vote`.
+2. In NEO-GUI, open the wallet account to vote. 
 
-3. In the Candidates field, enter the public key of the candidate to vote. You can enter multiple public keys separated by Line feeds. Note that each line cannot contain spaces, as shown in the following image:
+3. Right-click on the account -> `Vote`.
+
+4. In the Candidates field, enter the *Public Key* of the candidates you wish to vote for. You can enter multiple public keys separated by Line feeds. Note that each line cannot contain spaces, as shown in the following image:
 
    <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/votemulti-EN.png" width="725">
    *Example: giving three candidates each 100000000 votes.*
 
-4. If the message of a transaction ID is displayed, then you have voted successfully. You can check the number of votes for each candidate by accessing the API. (See [Appendix 1](#appendix-1-checking-candidates-and-votes-using-api))
+5. If the message of a transaction ID is displayed, then you have voted successfully. You can check the number of votes for each candidate by accessing the API (See [Appendix 1](#appendix-1-checking-candidates-and-votes-using-api)), or check the vote count on the [Consensus Node page](https://neo.org/consensus), which may take some time to update. 
 
-## 5. Gathering Votes & Support
+## 5. Updating the Consensus Node
 
-> **Applicable to both chain governance and off-chain governance candidates.**
+> **Applicable to consensus node maintainers**
 
-Once successfully becoming a candidate on the blockchain, off-chain governance candidates will receive votes from NEO Foundation. 
+NEO is a network that will continuously be updated. The current version of the NEO network is determined by the version of the consensus nodes(currently using neo-cli). 
 
-For chain governance candidates, gaining community understanding and support will increase the likelihood that NEO holders will vote. These are some of the advised actions: 
+When maintaining a consensus node, there will be updates to the NEO node (neo-cli) which the maintainers  will need to carry out. Below is a procedure to each NEO node update: 
 
-- Adding candidate information to the [Consensus Nodes](http://neo.org/consensus) page on the NEO website. [See Appendix 2 on how to do it.](#appendix-2-add-candidate-info-to-consensus-node-page)
-
-- Make a page for running NEO consensus node on the organisation/candidate's own website.  
-
-- Let the community know your candidacy through NEO's Reddit, Discord and other community platforms. 
-
-*A candidate will become consensus node if enough votes are gathered.*
+1. NGD will test the latest patch of neo-cli for bugs and other problems. 
+2. Once the patch passes the test, they will coordinate with test-net consensus node maintainers to carry out an update. 
+3. Typically, once the new patch can run on the test-net for ***two consecutive weeks*** without problems, it will be rolled out on the main-net. NGD will coordinate with main-net consensus node to update to the latest patch. 
+4. An update is completed once all main-net consensus nodes are running the latest patch. 
 
 ---
 
 
 ## Appendix 1. Checking Candidates and Votes using API
 
-To check the number of votes on each candidate that has registered, you can use Postman or any other RPC program to access the API. (For instructions on how to, see [this document](Using RPC to Call NEO API.md))
+To check the number of votes on each candidate that has registered, you can use Postman or any other RPC program to access the API. (For instructions on how to, see [this document](https://github.com/taomo-eo/docs/blob/master/Becoming_Consensus_Node/Using%20RPC%20to%20Call%20NEO%20API.md))
 
 As shown below, send a `getvalidators` request to the API. 
 
@@ -327,3 +346,4 @@ The [Consensus Nodes](http://neo.org/consensus) page can be used to track the st
    <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/consensusSite6a-EN.png" width="620">
 
    If the green arrow to the right of your node on the page is green and expandable,  then your candidate info is successfully submitted! 
+
