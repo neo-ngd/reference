@@ -153,7 +153,7 @@ All potential candidates are advised to provide some, or all of the information 
 
 ## 3. Partnering With NEO Foundation (Optional)
 
-> **Applicable only to off-chain governance candidates. For chain governance candidates, skip to [3. Main-net Cadidate&Voting](#3-main-net-candidate---voting)**
+> **Applicable only to off-chain governance candidates. For chain governance candidates, skip to [4. Main-net Cadidate & Voting](#4-main-net-candidate--voting)**
 
 ### 3.1 Sending Application
 
