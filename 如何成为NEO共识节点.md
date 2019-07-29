@@ -40,11 +40,13 @@
 
 目前测试网的共识节点共有7个：
 
-- NEO Foundation维护2个
+- NSPCC维护1个
 - NEO Global Development维护1个
-- CityOfZion社区维护2个
+- CityOfZion社区维护1个
 - KPN维护1个
 - Swisscom维护1个
+- MatPool维护1个
+- Red4Sec维护1个
 
 ### 代币流通
 
