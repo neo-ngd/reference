@@ -41,11 +41,13 @@ The NEO main-net currently has 7 consensus nodes. (see the consensus node monito
 
 The NEO test-net currently has 7 consensus nodes. 
 
-- NEO Foundation maintains 2 of the nodes
 - NEO Global Development maintains 1 node
-- CityOfZion maintains 2 nodes
+- CityOfZion maintains 1 nodes
 - KPN maintains 1node
 - Swisscom maintains 1 node
+- NSPCC maintains 1 node
+- MatPool maintains 1 node
+- Red4Sec maintains 1 node
 
 ### Token Distribution
 
